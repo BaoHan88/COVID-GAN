@@ -1,3 +1,3 @@
 # COVID-GAN
 
-We will add more staff including code and sample data soon.
+We will add more stuff including code and sample data soon.
